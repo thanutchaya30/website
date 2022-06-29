@@ -10,7 +10,7 @@ header
     {
       background-color: rgb(63, 52, 52);
       color: white;
-      height: 100px;
+      height: 80px;
       padding: 10px;
       text-align: left;
     }
@@ -33,6 +33,6 @@ footer
 .headname2
     {
         color: rgb(218, 198, 198);
-        font-size: 5px;
+        font-size: 10px;
     }
     
