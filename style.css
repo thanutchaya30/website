@@ -1,6 +1,6 @@
 body 
     {
-    background-image: url('https://st3.depositphotos.com/4072575/17211/i/450/depositphotos_172116316-stock-photo-grey-paper-texture-background-with.jpg');
+    background-image: url('https://media.idownloadblog.com/wp-content/uploads/2019/03/WWDC-2019-Wallpaper-AR72014-Desktop-v4-White.png');
      background-repeat : repeat;
      background-size: cover;
     font-family: 'Mitr', sans-serif;
@@ -40,5 +40,10 @@ footer
         background-image: url("images/chantaburi-cover.jpeg");
         height: 320px;
         padding: auto;
+    }
+
+    .maps{
+        border: 1px solid rgb(218, 198, 198);
+        height: 300px;
     }
     
