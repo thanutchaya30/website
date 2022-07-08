@@ -1,6 +1,6 @@
 body 
     {
-    background-image: url('https://i.pinimg.com/originals/d0/c6/cd/d0c6cd98f1129e8b53ff4b92016cefec.jpg');
+    background-image: url('https://i.pinimg.com/originals/d7/ee/80/d7ee80b39a2d73e36833155b312318ec.jpg');
      background-repeat : repeat;
      background-size: cover;
     font-family: 'Mitr', sans-serif;
@@ -16,7 +16,7 @@ header
     }
 footer 
     {
-      background-color: rgb(185, 156, 156);
+      background-color: rgb(63, 52, 52);
       color: white;
       height: 50px;
       padding: 10px;
@@ -45,7 +45,7 @@ footer
 
 .maps
     {
-        border: 1px solid rgb(218, 198, 198);
+        border: 1px solid rgb(63, 52, 52);
         height: 300px;
     }
     
