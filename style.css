@@ -66,3 +66,17 @@ footer
         background-color: rgb(255, 255, 255);
         height: 40px;
     }
+
+.topmenu ul
+    {
+        list-style: disc;
+        margin: auto;
+        display: flex;
+        justify-content: left;
+    }
+      
+.topmenu li
+    {
+        float: right;
+        padding: 10px 40px;
+    }
